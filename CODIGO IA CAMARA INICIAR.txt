@@ -1,0 +1,7 @@
+detectnet.py 
+imagenet.py
+my-detection.py
+my-recognition.py 
+segnet.py
+segnet_utils.py
+./detectnet.py /dev/video0
